@@ -1647,10 +1647,10 @@
   resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.0.2.tgz#1c17eadb2fa77f80a796ad5ea9bf108e6993ef06"
   integrity sha512-GRSOFhJzjGN+d4sKHTMSvNeUPoZiDHWmRnXfzaxrqe7dE/Nzlc8BiMSJdLDESZlndM7jIUrZ/F4yWqVYlI0rwQ==
 
-"@reusejs/react@^6.19.19":
-  version "6.19.19"
-  resolved "https://registry.npmjs.org/@reusejs/react/-/react-6.19.19.tgz"
-  integrity sha512-CFP3nRM1X5nX5bCZV8cBT9fudoz3XgUBNeXaOPtVJ+yhjGge7dRzSXRq2DcBSwAiK9v8ZaRUpzhWxHtQSNITLw==
+"@reusejs/react@^6.19.20":
+  version "6.19.20"
+  resolved "https://registry.yarnpkg.com/@reusejs/react/-/react-6.19.20.tgz#d62d3c2947892373dfa4700df0a29bf5c100a7e2"
+  integrity sha512-vF2R4viSgMn3uO43lHS61+gmQ6mlftmMp/l2QoZg603/8XDRSXtYsz6b8N3aAjqxvxLSO1dmFg5gwJxNKTdNeA==
   dependencies:
     "@headlessui/react" "^1.6.6"
     dayzed "^3.2.3"
